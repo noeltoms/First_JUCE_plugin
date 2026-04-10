@@ -1,2 +1,3 @@
-# First_JUCE_plugin
-Trying to learn and implement my first plug in using C++ and JUCE framework
+# Music Mastering Application
+A tool to apply a master EQ and boost the level to match the standard LUFS of different music streaming platforms
+
